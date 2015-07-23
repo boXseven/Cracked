@@ -5,6 +5,6 @@ Kite Machine Kalista - version 2.13
 Riven - Broken Wings - version 3.34  
 Clarity Bundle - version 2.2  
 Challenger Ahri Reborn - version 1.337  
-Gagong Orianna - version 1.080  
+Gagong Orianna - version 1.090  
 DeklandAIO - version 0.034  
 Yasuo - The Windwalker - version 1.74
