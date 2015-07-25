@@ -6,5 +6,5 @@ Riven - Broken Wings - version BW514003
 Clarity Bundle - version 2.2  
 Challenger Ahri Reborn - version 1.337  
 Gagong Orianna - version 1.090  
-DeklandAIO - version 0.034  
+DeklandAIO - version 0.035  
 Yasuo - The Windwalker - version 1.74
