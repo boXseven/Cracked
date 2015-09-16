@@ -10,4 +10,4 @@ Kite Machine Kalista - version 2.13
 mAmumu - Salty Sad Tears  
 PrinceView Awareness - version 18.38  
 Riven - Broken Wings - version 517006  
-Yasuo - The Windwalker - version 1.74  
+Yasuo - The Windwalker - version 1.87  
