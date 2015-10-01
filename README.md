@@ -9,5 +9,5 @@ HTTF Riven - version 2.2
 Kite Machine Kalista - version 2.13  
 mAmumu - Salty Sad Tears  
 PrinceView Awareness - version 18.38  
-Riven - Broken Wings - version 518010  
+Riven - Broken Wings - version 519006  
 Yasuo - The Windwalker - version 1.87  
